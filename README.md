@@ -28,7 +28,7 @@ Because fraud is the minority class and a missed fraud costs more than a false a
 
 ---
 
-## 2. Dataset Description  [1 mark]
+## 2. Dataset Description
 
 | Item | Detail |
 |---|---|
@@ -62,7 +62,7 @@ Because fraud is the minority class and a missed fraud costs more than a false a
 
 ---
 
-## 3. GitHub Repository Link  [2 marks]
+## 3. GitHub Repository Link
 
 **https://github.com/2026ct05073/2026CT05073-ML-Assignment-2**
 
@@ -81,7 +81,7 @@ Repository contents:
 
 ---
 
-## 4. Models Used  [5 marks]
+## 4. Models Used
 
 ### 4.1 Comparison table (test set, positive class = fraud)
 
@@ -118,7 +118,7 @@ Best value per column in **bold**. Majority-class baseline (always predict "genu
 | Random Forest | 300 trees, `min_samples_leaf=3`, `class_weight="balanced_subsample"` |
 | XGBoost | 300 trees, `max_depth=3`, `learning_rate=0.05`, `subsample=0.8`, `colsample_bytree=0.8`, `scale_pos_weight ≈ 3.04` (negatives ÷ positives in training data) |
 
-### 4.4 Graph representation of all metrics  [2 marks]
+### 4.4 Graph representation of all metrics 
 
 **All six metrics for all six models**
 
