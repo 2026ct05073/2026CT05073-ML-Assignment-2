@@ -136,7 +136,7 @@ Best value per column in **bold**. Majority-class baseline (always predict "genu
 
 ![Confusion matrices](outputs/confusion_matrices.png)
 
-### 4.5 Observations on model performance  [3 marks]
+### 4.5 Observations on model performance
 
 The test set has 200 claims, of which 49 are fraud, so every fraud caught or missed moves Recall by about 2 percentage points. Small differences between models should therefore not be over-interpreted.
 
