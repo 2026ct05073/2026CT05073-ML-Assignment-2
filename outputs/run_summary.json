@@ -1,0 +1,14 @@
+{
+  "student_id": "2026CT05073",
+  "seed": 5073,
+  "dataset_rows_raw": 1000,
+  "rows_after_cleaning": 1000,
+  "duplicates_removed": 0,
+  "predictors_before_encoding": 34,
+  "train_rows": 800,
+  "test_rows": 200,
+  "fraud_rate_full": 0.247,
+  "knn_k": 3,
+  "winner": "Decision Tree",
+  "python": "3.13.18"
+}
